@@ -12,6 +12,7 @@ int main()
     {
         vector<int> vc;
         for (int j = 0; j < 5; j++)
+        {
             int k;
             cin>>k;
             vc.push_back(k);
